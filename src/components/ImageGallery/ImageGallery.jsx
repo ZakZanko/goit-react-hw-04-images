@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 
 import Button from '../Button/Button';
 import ImageGalleryItem from '../ImageGalleryItem/ImageGalleryItem';
